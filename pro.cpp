@@ -27,5 +27,5 @@ int main()
   else
      cout << "Not a Prime Number." << endl;
 
-  return 0;
+  return 0:
 }
